@@ -65,7 +65,7 @@ const faqSchema = {
       name: 'Can I use it without installing a browser extension?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'Currently no, but the extension is free and easy to install and you dont need to create an account. For the future there is a stremio addon in the works. Stay tuned!',
+        text: 'There is a Stremio addon in the project, but the hosted public version is currently disabled indefinitely due to traffic costs. It is fully open source and can be self-hosted locally in a few minutes — see animefillerchecker.com/blog/stremio-disabled for setup instructions.',
       },
     },
   ],
